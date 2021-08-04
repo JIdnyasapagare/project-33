@@ -6,7 +6,7 @@ const Constraint = Matter.Constraint;
 
 
 var ground,ground2,ground3;
-var Slingshot,polygon;
+var launcher,polygon;
 var block1,block2,block3,block4,block5,block6,block7,block8,block9,block10,block11,block12,block13,block14,block15,block16;
 var b1,b2,b3,b4,b5,b6,b7,b8,b9;
 
