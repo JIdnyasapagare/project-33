@@ -17,8 +17,7 @@ class Polygon {
         push();
         ellipseMode(RADIUS);
         translate(pos.x,pos.y);
-        fill(color);
-        stroke(border);
+        
         strokeWeight(4);
         ellipse(0,0,this.radius,this.radius);
         pop();
