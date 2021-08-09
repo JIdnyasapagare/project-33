@@ -21,7 +21,7 @@ function setup(){
     ground = new Ground(600,580,1200,20);
     ground2 = new Ground(390,300,260,10);
     ground3 = new Ground(900,400,200,10);
-    polygon = new Polygon(150,200,30,30);
+    polygon = new Polygon(150,200,30);
     launcher = new Slingshot(polygon.body,{x:150,y:110})
 
     block1 = new Block(480,275,30,40);
